@@ -22,7 +22,7 @@ A focused visual question-answering app that reads text in an uploaded image, an
 ## Run locally
 
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/aryanshirodkar15/scene-text-vqa.git
 cd scene-text-vqa
 npm install
 cp .env.example .env
